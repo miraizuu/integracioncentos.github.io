@@ -3,31 +3,31 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
-    <loc>http://192.168.1.36/</loc>
+    <loc>http://192.168.1.41/post/hello/</loc>
     <lastmod>2021-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://192.168.1.36/about/</loc>
+    <loc>http://192.168.1.41/post/</loc>
     <lastmod>2021-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://192.168.1.36/post/hello/</loc>
-    <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+    <loc>http://192.168.1.41/</loc>
+    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://192.168.1.36/post/</loc>
-    <lastmod>2019-01-25T00:00:00+00:00</lastmod>
+    <loc>http://192.168.1.41/about/</loc>
+    <lastmod>2021-03-10T00:00:00+00:00</lastmod>
   </url>
   
   <url>
-    <loc>http://192.168.1.36/categories/</loc>
+    <loc>http://192.168.1.41/categories/</loc>
   </url>
   
   <url>
-    <loc>http://192.168.1.36/tags/</loc>
+    <loc>http://192.168.1.41/tags/</loc>
   </url>
   
 </urlset>
